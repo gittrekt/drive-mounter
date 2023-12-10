@@ -1,0 +1,6 @@
+__pycache__
+ChatDev
+*.json
+*.txt
+*.md
+*.log
